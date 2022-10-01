@@ -60,4 +60,4 @@ The Colormaps are inspired by the theme colors of Hoshino-Ichika and Luo-Tianyi.
 | Name | Hoshino-Ichika (Game Character) | Luo-Tianyi (Virtual Singer of VOCALOID) |
 |------|---------------------------------|-----------------------------------------|
 | Theme Color | `#33AAEE` | `#66CCFF` |
-| Vision | <img src="assets/Hoshino-Ichika.jpeg" height=192 /> | <img src="assets/Luo-Tianyi.jpeg" height=192 /> |
+| Vision | <img src="https://github.com/sandyzikun/oneblue/raw/init/assets/Hoshino-Ichika.jpeg" height=192 /> | <img src="https://github.com/sandyzikun/oneblue/raw/init/assets/Luo-Tianyi.jpeg" height=192 /> |
