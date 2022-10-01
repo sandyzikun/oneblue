@@ -2,7 +2,7 @@
 
 A Simple Colormap for `Matplotlib`.
 
-![](assets/yozora-lmap-x.jpeg)
+![](https://github.com/sandyzikun/oneblue/raw/init/assets/yozora-lmap-x.jpeg)
 
 ## Requirements
 
@@ -42,11 +42,11 @@ To access `oneblue` and its functions import it in your Python code like this:
 
 |     Colormap  Name     |  `Nebula`[^1]  Likelihood-map  | IM<sup>2</sup>C  2019[^2]  D-1 | SST of Yellow Sea Cold Water Mass Area at 15:00, Dec 24<sup>th</sup>, 2006 |
 |------------------------|--------------------------------|--------------------------------|-|
-|       `"Greys"`        | ![](assets/yozora-lmap-o.jpeg) | ![](assets/im2c2019d01-o.jpeg) | ![](assets/hcwm-sst-20061224150039-o.jpeg) |
-|      `"Greys_r"`       | ![](assets/yozora-lmap-r.jpeg) | ![](assets/im2c2019d01-r.jpeg) | ![](assets/hcwm-sst-20061224150039-r.jpeg) |
-|      `"Seismic"`       | ![](assets/yozora-lmap-s.jpeg) | ![](assets/im2c2019d01-s.jpeg) | ![](assets/hcwm-sst-20061224150039-s.jpeg) |
-| `oneblue.oneb1ue.cmap` | ![](assets/yozora-lmap-x.jpeg) | ![](assets/im2c2019d01-x.jpeg) | ![](assets/hcwm-sst-20061224150039-x.jpeg) |
-| `oneblue.oneb1ue.dmap` | ![](assets/yozora-lmap-y.jpeg) | ![](assets/im2c2019d01-y.jpeg) | ![](assets/hcwm-sst-20061224150039-y.jpeg) |
+|       `"Greys"`        | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/yozora-lmap-o.jpeg) | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/im2c2019d01-o.jpeg) | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/hcwm-sst-20061224150039-o.jpeg) |
+|      `"Greys_r"`       | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/yozora-lmap-r.jpeg) | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/im2c2019d01-r.jpeg) | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/hcwm-sst-20061224150039-r.jpeg) |
+|      `"Seismic"`       | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/yozora-lmap-s.jpeg) | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/im2c2019d01-s.jpeg) | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/hcwm-sst-20061224150039-s.jpeg) |
+| `oneblue.oneb1ue.cmap` | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/yozora-lmap-x.jpeg) | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/im2c2019d01-x.jpeg) | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/hcwm-sst-20061224150039-x.jpeg) |
+| `oneblue.oneb1ue.dmap` | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/yozora-lmap-y.jpeg) | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/im2c2019d01-y.jpeg) | ![](https://github.com/sandyzikun/oneblue/raw/init/assets/hcwm-sst-20061224150039-y.jpeg) |
 
 ## References
 
@@ -56,3 +56,8 @@ To access `oneblue` and its functions import it in your Python code like this:
 ## Extra
 
 The Colormaps are inspired by the theme colors of Hoshino-Ichika and Luo-Tianyi.
+
+| Name | Hoshino-Ichika (Game Character) | Luo-Tianyi (Virtual Singer of VOCALOID) |
+|------|---------------------------------|-----------------------------------------|
+| Theme Color | `#33AAEE` | `#66CCFF` |
+| Vision | <img src="assets/Hoshino-Ichika.jpeg" height=192 /> | <img src="assets/Luo-Tianyi.jpeg" height=192 /> |
